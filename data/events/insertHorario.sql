@@ -1,0 +1,1 @@
+INSERT INTO [BDAngular].[dbo].[Horario] (fecha) VALUES (@fecha)

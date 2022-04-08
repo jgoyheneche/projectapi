@@ -1,0 +1,1 @@
+delete from Reserva where Id=@id;
